@@ -7,6 +7,7 @@ permalink: /Home/
 whiteglass is a minimal, responsive Jekyll theme for hackers.
 
 ## Installation
+## Home
 
 Add this line to your Jekyll site's Gemfile:
 
