@@ -39,6 +39,15 @@ gem install jekyll-whiteglass
 
 _ _ _
 
+Research Experience
+
+
+
+_ _ _
+Work Experience
+
+
+_ _ _
 1. Generate a new Jekyll blog:
 
    ``` sh
