@@ -6,7 +6,7 @@ permalink: /about/
 
 whiteglass is a minimal, responsive Jekyll theme for hackers.
 
-## Installation
+### Profile
 
 Add this line to your Jekyll site's Gemfile:
 
@@ -32,7 +32,7 @@ Or install it yourself as:
 gem install jekyll-whiteglass
 ```
 
-## Quick Start
+### Links
 
 1. Generate a new Jekyll blog:
 
