@@ -5,7 +5,7 @@
 
 Minimal, responsive Jekyll theme for hackers.
 
-![whiteglass theme](screenshot.png)
+![NamShik Choi](screenshot.png)
 
 ## Installation
 
