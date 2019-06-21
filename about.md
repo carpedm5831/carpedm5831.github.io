@@ -35,6 +35,7 @@ gem install jekyll-whiteglass
 ### Links
 
 <br/>**Email: carpedm5831@gmail.com**
+- - -
 <br/>**Github: [github.com/carpedm5831](http://github.com/carpedm5831)**
 
 _ _ _
