@@ -33,7 +33,7 @@ gem install jekyll-whiteglass
 ```
 
 ### Links
-**Email: carpedm5831@gmail.com**
+**Email: '''carpedm5831@gmail.com**
 1. Generate a new Jekyll blog:
 
    ``` sh
