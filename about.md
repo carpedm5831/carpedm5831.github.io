@@ -8,29 +8,7 @@ whiteglass is a minimal, responsive Jekyll theme for hackers.
 
 ### Profile
 
-Add this line to your Jekyll site's Gemfile:
 
-``` ruby
-gem "jekyll-whiteglass"
-```
-
-And add this line to your Jekyll site's `_config.yml`:
-
-``` yaml
-theme: jekyll-whiteglass
-```
-
-And then execute:
-
-``` sh
-bundle
-```
-
-Or install it yourself as:
-
-``` sh
-gem install jekyll-whiteglass
-```
 
 ### Links
 
@@ -44,10 +22,19 @@ Research Experience
 
 
 _ _ _
+
 Work Experience
 
 
 _ _ _
+
+Personal Projects
+
+_ _ _
+
+Presentations
+
+
 1. Generate a new Jekyll blog:
 
    ``` sh
