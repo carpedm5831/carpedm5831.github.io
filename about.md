@@ -30,10 +30,32 @@ _ _ _
 _ _ _
 
 ### Personal Projects
+##Machine Learning
+Generative Models
+
+
+Reinforcement Learning
+
+
+Program Induction
+
+
+NLP
+
+
+Speech Synthesis
+
+
+Visualization
 
 _ _ _
 
 ### Presentations
+
+
+_ _ _
+
+### Skills
 
 
 
