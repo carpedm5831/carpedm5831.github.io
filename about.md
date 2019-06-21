@@ -34,6 +34,8 @@ gem install jekyll-whiteglass
 
 ### Links
 **Email: carpedm5831@gmail.com**
+**Github: github.com/carpedm5831
+
 1. Generate a new Jekyll blog:
 
    ``` sh
